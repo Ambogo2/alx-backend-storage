@@ -1,2 +1,0 @@
-//  creates or uses the database my_db
-db.createCollection("my_db")
